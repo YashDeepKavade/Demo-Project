@@ -1,4 +1,5 @@
 Class Products{
 
-
+	public Products(
+){}
 }
